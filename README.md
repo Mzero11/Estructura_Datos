@@ -1,3 +1,3 @@
 Codigo funcinal 
 =============
-![All text](Codigo_Funcional.png"Imagen")
+![Sistema](Codigo_Funcional.png"Imagen")
